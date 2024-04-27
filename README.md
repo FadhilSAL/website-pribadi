@@ -1,2 +1,2 @@
-# websitepersonal
+# website-pribadi
 web
